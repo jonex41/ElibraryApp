@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "672299853226",
+    "firebase_url": "https://projs-bea3b.firebaseio.com",
+    "project_id": "projs-bea3b",
+    "storage_bucket": "projs-bea3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672299853226:android:0c986a584c96e80d",
+        "android_client_info": {
+          "package_name": "com.john.www.e_libraryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672299853226-rjqq6hsqq8f9l7adkd4enj7ecmv1ktn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4xWMoONjy3I0gbOGWdUM4fN-DMCeT3yY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

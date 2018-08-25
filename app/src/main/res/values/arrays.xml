@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+    <string-array name="useroradmin">
+
+
+        <item>Student</item>
+        <item>Admin</item>
+
+    </string-array>
+
+    <string-array name="spinner">
+
+
+        <item>Java-computer science</item>
+        <item>Html-computer science </item>
+        <item>Organic-chemistry</item>
+        <item>Matter-physics</item>
+        <item>Atom-physics</item>
+        <item>Calculus-math</item>
+        <item>Differentiation-math</item>
+        <item>Physical-chemistry</item>
+
+    </string-array>
+
+</resources>
